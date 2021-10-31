@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Deployment
 
-This app is deployed using Jenkins, Digital Ocean.
+This app is deployed using Jenkins, Digital Ocean...
